@@ -1,3 +1,3 @@
 - Welcome to git
 - commit1
-- added from dev
+- added from git
